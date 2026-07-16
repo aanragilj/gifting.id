@@ -17,7 +17,7 @@
   --line: #E3DFD3;
   --line-strong: #cfc9b8;
 
-  --serif: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --serif: "Satoshi", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
   --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
 
